@@ -33,11 +33,8 @@ JavaScript handles random number generation, user input, hint logic, attempts tr
 * 💾 Best score stored using `localStorage`
 * 🔄 New Game / Restart functionality
 * 🎨 Dynamic hint colors
-* ✨ Modern glassmorphism UI
-* 🌈 Dark gradient background
-* 🖱️ Interactive hover effects
 * 📱 Responsive design
-* ⚡ Lightweight and fast
+
 
 ---
 
@@ -128,7 +125,7 @@ The saved best score is retained.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/NileshPadalwar/Number-Guessing-Game.git
+git clone https://github.com/NileshPadalwar/Number_Guessing_Game.git
 ```
 
 2. Navigate to the project:
