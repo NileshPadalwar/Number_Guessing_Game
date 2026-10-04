@@ -4,9 +4,8 @@ A simple and responsive **Number Guessing Game Web Application** built using **H
 
 ## 🚀 Live Demo
 
-🔗 **[Number Guessing Game](#)**
+🔗 **[Number Guessing Game](https://numberguessinggame-chi.vercel.app/)**
 
-> Replace `#` with your live Vercel or GitHub Pages URL.
 
 ---
 
@@ -131,7 +130,7 @@ git clone https://github.com/NileshPadalwar/Number_Guessing_Game.git
 2. Navigate to the project:
 
 ```bash
-cd Number-Guessing-Game
+cd Number_Guessing_Game
 ```
 
 3. Open `index.html` in your browser.
